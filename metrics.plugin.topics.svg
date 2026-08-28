@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="126" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="97" class="">
     <defs>
         <style/>
     </defs>
@@ -20,22 +20,17 @@
                             <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
-                            <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
                             <div class="label" title="Firebase is a mobile app development platform that provides data analysis and database web services for developers.">firebase</div>
                             <div class="label" title="Swift is a modern programming language focused on safety, performance, and expressivity.">swift</div>
                             <div class="label" title="Sass is a stable extension to classic CSS.">sass</div>
-                            <div class="label" title="Sketch is a vector graphics editor for Apple&amp;apos;s macOS, used primarily for user interface and icon design.">sketch</div>
                             <div class="label" title="Extensible editor for Windows, macOS, and Linux, for coding in any programming language.">visual studio code</div>
-                            <div class="label" title="You’re lookin’ at it.">github</div>
                             <div class="label" title="SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift.">swiftui</div>
                             <div class="label" title="Xcode is an IDE for macOS to develop software for macOS, iOS, watchOS, and tvOS.">xcode</div>
                             <div class="label" title="SQLite is a fast, self-contained embedded SQL database engine.">sqlite</div>
-                            <div class="label" title="Tailwind is a utility-first CSS framework.">tailwind css</div>
                             <div class="label" title="Figma is a collaborative interface design tool.">figma</div>
                             <div class="label" title="">uikit</div>
-                            <div class="label" title="">cocoapods</div>
                         </div>
                     </section>
                 </div>
