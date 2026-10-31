@@ -17,8 +17,8 @@
                     <section>
                         <div class="topics fill-width">
                             <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
-                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.">css</div>
+                            <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
                             <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.">json</div>
